@@ -1,9 +1,55 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Home da Globo.com
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Leandro Thimóteo
+Rua Florianópolis, 409 Casa 6 - Praça Seca - Rio de janeiro/RJ
+leandro.s.thimoteo@gmail.com 
+(21)3549-9330 
+(21)9282-8559
+
+##OBJETIVO
+
+	Fazer parte de uma equipe que acredite em desenvolvimento ágil e que teste é parte essencial do processo de desenvolvimento.
+
+##COMPETÊNCIAS 
+
+* Experiência com C#, plataforma .NET e desenvolvimento em ambinente Windows.
+* Experiência com javascript, desenvolvimento web cross-browser(css, javascript) e noções de nodejs.
+* Experiência com Oracle, SQL Server.
+* Noções de Ruby e seu ecossistema, Sinatra, Rails, RSpec e outras em estudo.
+* Noções de MongDB, CouchDB.
+* Familiarizado com as distribuições Linux: Arch Linux, Ubuntu.
+* Praticante de desenvolvimento guiado por testes, integração contínua e membro ativo da comunidade [Dojo Rio](http://dojorio.org/)
+
+##EXPERIÊNCIA PROFISSIONAL 
+
+###XP Investimentos Corretora (3/2010 - 1/2012) - Analista de Sistemas Pleno
+
+	Desenvolvimento de ferramentas para análise de risco e monitoração da situação fincanceira dos clientes na corretora.
+
+###Qx3 (10/2007 - 3/2010) – Desenvolvedor de Sistemas Web
+
+	Desenvolvimento de portais, serviços web e sitemas de gerenciamento de conteúdo(CMS) para corretoras e outras empresas do setor financeiro.
+
+##FORMAÇÂO ACADÊMICA
+
+###Tecnologia em Análise e Desenvolvimento de Sistemas (2006 – 2009) 
+	Centro Universitário da Cidade (UNIVERCIDADE) – Rio de Janeiro/RJ
+
+###2o grau técnico em Processamento de Dados  (2002 – 2005)
+	Escola Técnica Estadual República (FAETEC) - Rio de Janeiro/RJ
+
+##IDIOMA
+
+	Inglês - Wise Up Escola de Idiomas (Intermediário) 
+
+##CURSOS 
+
+### Métodos Ágeis de Gerência em Desenvolvimento de Software (5 dias) - Por Rodrigo de Toledo [Doutor- INRIA/Nancy (França), CSM (Certified Scrum Master)]
+
+	Apresentação dos métodos XP e SCRUM, detalhamento do SCRUM e suas ferramentas, filosofia e conceitos.
